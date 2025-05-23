@@ -1,4 +1,4 @@
-# Developing a Neural Network Classification Model
+ # Developing a Neural Network Classification Model
 
 ## AIM
 To develop a neural network classification model for the given dataset.
@@ -30,8 +30,8 @@ Predict a sample input and compare with the actual class.
 
 ## PROGRAM
 
-**Name :** DEVESH S
-**Register Number :** 212223230041
+**Name :** Gokkul M
+**Register Number :** 212223240039
 
 ```python
 class IrisClassifier(nn.Module):
